@@ -1,24 +1,24 @@
 {
     "oneParameterFormal": {
-        "pspace:boolean": [ true ],
-        "pspace:byte": [ "0x00C9" ],
-        "pspace:char": [ "a" ],
-        "pspace:double": [ "3.6344d" ],
-        "pspace:enum": [],
-        "pspace:float": [ "1.23f" ],
-        "pspace:int": [ 4522 ],
-        "pspace:long": [ "12345678910L" ],
-        "pspace:string": [ "I AM ALIVE!" ]
+        "pspaceboolean": [ true ],
+        "pspacebyte": [ "0x00C9" ],
+        "pspacechar": [ "a" ],
+        "pspacedouble": [ "3.6344d" ],
+        "pspaceenum": [],
+        "pspacefloat": [ "1.23f" ],
+        "pspaceint": [ 4522 ],
+        "pspacelong": [ "12345678910L" ],
+        "pspacestring": [ "I AM ALIVE!" ]
     },
     "twoParameterFormal": {
-        "pspace:boolean": [false, true],
-        "pspace:byte": ["0x005f", " 0x00ff"],
-        "pspace:char": ["g", " o"],
-        "pspace:double": ["1.2345d", "-6.7890d"],
-        "pspace:enum": [],
-        "pspace:float": ["-4.56f", "7.89f"],
-        "pspace:int": [7432, -43634],
-        "pspace:long": ["12345678910L", "10987654321L"],
-        "pspace:string": ["Hello ", "World!"]
+        "pspaceboolean": [false, true],
+        "pspacebyte": ["0x005f", " 0x00ff"],
+        "pspacechar": ["g", " o"],
+        "pspacedouble": ["1.2345d", "-6.7890d"],
+        "pspaceenum": [],
+        "pspacefloat": ["-4.56f", "7.89f"],
+        "pspaceint": [7432, -43634],
+        "pspacelong": ["12345678910L", "10987654321L"],
+        "pspacestring": ["Hello ", "World!"]
     }
 }
