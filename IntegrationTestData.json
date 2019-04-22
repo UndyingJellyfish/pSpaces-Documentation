@@ -1,0 +1,24 @@
+{
+    "oneParameterFormal": {
+        "pspace:boolean": [ true ],
+        "pspace:byte": [ "0x00C9" ],
+        "pspace:char": [ "a" ],
+        "pspace:double": [ "3.6344d" ],
+        "pspace:enum": [],
+        "pspace:float": [ "1.23f" ],
+        "pspace:int": [ 4522 ],
+        "pspace:long": [ "12345678910L" ],
+        "pspace:string": [ "I AM ALIVE!" ]
+    },
+    "twoParameterFormal": {
+        "pspace:boolean": [false, true],
+        "pspace:byte": ["0x005f", " 0x00ff"],
+        "pspace:char": ["g", " o"],
+        "pspace:double": ["1.2345d", "-6.7890d"],
+        "pspace:enum": [],
+        "pspace:float": ["-4.56f", "7.89f"],
+        "pspace:int": [7432, -43634],
+        "pspace:long": ["12345678910L", "10987654321L"],
+        "pspace:string": ["Hello ", "World!"]
+    }
+}
