@@ -3,9 +3,9 @@
         "pspaceboolean": [ "true" ],
         "pspacebyte": [ "c9" ],
         "pspacechar": [ "a" ],
-        "pspacedouble": [ "3.6344d" ],
+        "pspacedouble": [ "3.6344" ],
         "pspaceenum": [],
-        "pspacefloat": [ "1.23f" ],
+        "pspacefloat": [ "1.23" ],
         "pspaceint": [ "4522" ],
         "pspacelong": [ "12345678910L" ],
         "pspacestring": [ "I AM ALIVE!" ]
@@ -14,11 +14,11 @@
         "pspaceboolean": [ "false", "true" ],
         "pspacebyte": [ "5f", "ff" ],
         "pspacechar": [ "g", "o" ],
-        "pspacedouble": [ "1.2345d", "-6.7890d" ],
+        "pspacedouble": [ "1.2345", "-6.7890" ],
         "pspaceenum": [],
-        "pspacefloat": [ "-4.56f", "7.89f" ],
+        "pspacefloat": [ "-4.56", "7.89" ],
         "pspaceint": ["7432", "-43634"],
-        "pspacelong": [ "12345678910L", "10987654321L" ],
+        "pspacelong": [ "12345678910", "10987654321" ],
         "pspacestring": [ "Hello ", "World!" ]
     }
 }
