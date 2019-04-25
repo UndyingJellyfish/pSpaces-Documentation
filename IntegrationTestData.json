@@ -13,7 +13,7 @@
     "twoParameterFormal": {
         "pspaceboolean": [ "false", "true" ],
         "pspacebyte": [ "5f", "ff" ],
-        "pspacechar": [ "g", " o" ],
+        "pspacechar": [ "g", "o" ],
         "pspacedouble": [ "1.2345d", "-6.7890d" ],
         "pspaceenum": [],
         "pspacefloat": [ "-4.56f", "7.89f" ],
