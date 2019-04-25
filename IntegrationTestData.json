@@ -7,7 +7,7 @@
         "pspaceenum": [],
         "pspacefloat": [ "1.23" ],
         "pspaceint": [ "4522" ],
-        "pspacelong": [ "12345678910L" ],
+        "pspacelong": [ "12345678910" ],
         "pspacestring": [ "I AM ALIVE!" ]
     },
     "twoParameterFormal": {
