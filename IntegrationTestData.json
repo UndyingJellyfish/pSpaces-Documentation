@@ -1,7 +1,7 @@
 {
     "oneParameterFormal": {
         "pspaceboolean": [ "true" ],
-        "pspacebyte": [ "0x00C9" ],
+        "pspacebyte": [ "c9" ],
         "pspacechar": [ "a" ],
         "pspacedouble": [ "3.6344d" ],
         "pspaceenum": [],
@@ -12,7 +12,7 @@
     },
     "twoParameterFormal": {
         "pspaceboolean": [ "false", "true" ],
-        "pspacebyte": [ "0x005f", " 0x00ff" ],
+        "pspacebyte": [ "5f", "ff" ],
         "pspacechar": [ "g", " o" ],
         "pspacedouble": [ "1.2345d", "-6.7890d" ],
         "pspaceenum": [],
